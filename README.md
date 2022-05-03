@@ -15,7 +15,7 @@ https://www.w3schools.com
 <br>
 CRUD Completo com HTML, CSS e JavaScript - Parte 01
 <br>
-https://www.youtube.com/watch?v=Ihwvv_LvGrc&list=WL&index=4&t=698s
+https://youtu.be/Ihwvv_LvGrc
 <br>
 CRUD Completo com HTML, CSS e JavaScript - Parte 02
 <br>
